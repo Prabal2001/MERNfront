@@ -26,12 +26,12 @@ This is a simple and intuitive Blog App that allows users to Create, Read, Updat
   - HTML5
   - CSS3
   - JavaScript
-  - React.js (or your preferred frontend library/framework)
+  - React.js 
 
 - **Backend**:
   - Node.js
   - Express.js
-  - MongoDB (or your preferred database)
+  - MongoDB 
 
 ## Installation
 
